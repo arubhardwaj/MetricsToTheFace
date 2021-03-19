@@ -1,6 +1,6 @@
 # MetricsToTheFace Retweet Bot
 
-There are two scripts in this repository which retweets and likes all the tweets from `#metricstotheface` hashtag. Locally it is sceduled to be executed in every 5 minutes with the help of [Crontab](https://en.wikipedia.org/wiki/Cron).
+There are two scripts in this repository which retweets and likes all the tweets from [`#metricstotheface`](https://twitter.com/search?q=%23MetricsToTheFace&src=hashtag_click) hashtag. Locally it is sceduled to be executed in every 5 minutes with the help of [Crontab](https://en.wikipedia.org/wiki/Cron).
 
 # Dependencies 
 
