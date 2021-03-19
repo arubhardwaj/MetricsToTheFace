@@ -10,4 +10,4 @@ There are two scripts in this repository which retweets and likes all the tweets
 
 # Issues and PR
 
-Feel free to raise any issue or PR 
+Feel free to raise any issue or make a pull request 
