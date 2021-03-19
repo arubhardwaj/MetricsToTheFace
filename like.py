@@ -1,7 +1,7 @@
 import tweepy
 import time
 
-# API Keys are removed!!
+# Keys are removed!!
 CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
 ACCESS_KEY = ''
